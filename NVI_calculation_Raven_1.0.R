@@ -9,7 +9,7 @@
 
 #This program calculates the song complexity values using Note Variability Index(NVI)
 #The input files include: 1. Spectrogram Cross-Correlation values
-#                         2. Lengtth of songs, starting and ending notes
+#                         2. Length of songs, starting and ending notes
 
 
 #set working directory
