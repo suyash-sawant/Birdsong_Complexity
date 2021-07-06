@@ -9,7 +9,7 @@ Input files: 1. Spectrogram Cross-Correlation values
              2. Length of songs, starting and ending notes
 
 NVI_calculation_Raven_1.0.m
-his MATLAB-program calculates the song complexity using Note Variability Index (NVI) (Sawant S., Arvind C., Joshi V., Robin V. V., 2021)
+This MATLAB-program calculates the song complexity using Note Variability Index (NVI) (Sawant S., Arvind C., Joshi V., Robin V. V., 2021)
 Input files: 1. Spectrogram Cross-Correlation values
              2. Length of songs, starting and ending notes
 
